@@ -1,0 +1,24 @@
+Banque Misr — Daily Transactions Report
+Client: Alice Hamed
+Account: 0021-4471-9930
+Date:    2026- 5 - 10
+---------------------------------------------------------------
+TransactionID | Type      | Amount              | Counterparty
+---------------------------------------------------------------
+TX00001       | TRANSFER  |    -1,250.00 (LE)   | EgyptAir (booking 8821)
+TX00002       | DEPOSIT   |   +18,400.00 (LE)   | IBM
+TX00003       | PAYMENT   |      -899.50 (LE)   | Vodafone Cash
+TX00004       | TRANSFER  |    -5,000.00 (LE)   | Investments account
+TX00005       | WITHDRAW  |    -2,000.00 (LE)   | ATM CIB
+TX00006       | DEPOSIT   |      +750.00 (LE)   | Refund — Noon.com
+TX00007       | PAYMENT   |      -420.75 (LE)   | Talabat order #441927
+TX00008       | TRANSFER  |   -12,000.00 (LE)   | Rent — May 2026
+TX00009       | DEPOSIT   |    +3,200.00 (LE)   | Tutoring side income
+TX00010       | PAYMENT   |    -1,899.00 (LE)   | Electricity bill
+---------------------------------------------------------------
+Net change today: -1,119.25 EGP
+End-of-day balance: 47,683.40 EGP
+
+Note: This file is confidential and must only be transmitted over
+an authenticated, encrypted channel. 
+
